@@ -5,6 +5,7 @@ page_description: Smartphones and mobile devices are changing the way we interac
 article_title: Mobile Technology is Bringing a Small Business Renaissance to Local Communities
 author_url: https://twitter.com/Pappyo
 author_name: Mike O'Hara (Co-Founder of Corkboard.mobi)
+template: blog_post.html
 ---
 # Mobile Technology: A Local Business Renaissance
 
@@ -16,7 +17,7 @@ keep reading to have my life changed for the better.
 Being a fan of these posts, I’d love to smack you upside the head in one
 sentence with my breathtaking intellect. Unfortunately:
 
-*** ”Everyone has a smartphone!” ***
+***”Everyone has a smartphone!”***
 
 is a tad......underwhelming
 
