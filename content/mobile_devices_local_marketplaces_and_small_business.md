@@ -1,5 +1,5 @@
 ---
-pubdate: 2012-12-15
+pubdate: 2012-12-19
 page_title: Smartphones, Mobile Devices, and the Small Business Renaissance in Local Communities
 page_description: Smartphones and mobile devices are changing the way we interact within our community and local small businesses stand to gain.
 article_title: Mobile Technology is Bringing a Small Business Renaissance to Local Communities
@@ -7,7 +7,8 @@ author_url: https://twitter.com/Pappyo
 author_name: Mike O'Hara (Co-Founder of Corkboard.mobi)
 template: blog_post.html
 ---
-# Mobile Technology: A Local Business Renaissance
+
+<img src="/images/content/corkboard_flyer.jpg" width="100%" />
 
 I love blog posts that start out with a face-melting idea; those once-a-year,
 jarring ideas that force me to question the decisions I’ve made in my life.
@@ -114,15 +115,6 @@ to pave the way. Needless to say, there are a number of small companies
 attempting to create better local context and enrich local communities. But it
 will take some time.
 
-Moral of the Story.
--------------------
-This blog post wasn’t meant to scare you if you happen to be less than tech
-savvy. If you have queasy feelings that mobile is something you need to
-shoehorn into your small business.....relax. You’re early to the party, not
-late.
-
-These are happy times. Face-melting, happy times.
-
 What Small Businesses Can Do Today
 ----------------------------------
 Here are some fairly simple things you can do to make sure your business is mobile ready right now:
@@ -136,3 +128,12 @@ Here are some fairly simple things you can do to make sure your business is mobi
 4. If you were thinking of doing a website redesign but don’t know where to start, [Tumblr](http://www.tumblr.com/) is easy to use, has great [themes](http://www.tumblr.com/themes/), and generally works well on mobile. And yes, you can use your [buseinsses domain name](http://netforbeginners.about.com/od/d/f/domain_name.htm).
 
 5. Want to take credit cards with mobile? Try [Square](https://squareup.com/) or [Level Up](https://www.thelevelup.com/).
+
+Moral of the Story.
+-------------------
+This blog post wasn’t meant to scare you if you happen to be less than tech
+savvy. If you have queasy feelings that mobile is something you need to
+shoehorn into your small business.....relax. You’re early to the party, not
+late.
+
+These are happy times. Face-melting, happy times.
