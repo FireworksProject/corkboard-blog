@@ -1,14 +1,14 @@
 ---
 pubdate: 2012-12-29
-page_title: How to Market and Price Your Event
-page_description: Use social media, the web, and smart pricing attract a crowd to your event.
-article_title: How to Market and Price Your Event
+page_title: How to Market Your Event
+page_description: Use social media, the web, and smart pricing to attract a crowd to your event.
+article_title: How to Market Your Event
 author_url: https://twitter.com/Pappyo
 author_name: Mike O'Hara (Co-Founder of Corkboard.mobi)
 template: blog_post.html
 ---
 
-# How to Market Your Event
+<img src="/images/content/crowd.png" width="100%" />
 
 If you’re anything like me, you love going to a good event. However, there is a
 good chance you have the same problem I do when it comes to going to a good

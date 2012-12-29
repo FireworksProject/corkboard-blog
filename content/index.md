@@ -25,4 +25,23 @@ template: blog_index.html
 	</div>
 </li>
 
+<li class="media-item">
+	<p class="image-box">
+		<a href="./how_to_market_your_event">
+			<img src="/images/content/crowd.png" alt="article image" width="100%" />
+		</a>
+	</p>
+	<div class="text-box">
+		<a href="./how_to_market_your_event">
+		<h3 class="article-title">How to Market Your Event</h3>
+		<p class="article-summary">Use social media, the web, and smart pricing to attract a crowd to your event.</p>
+		</a>
+		<p class="article-meta">
+			Posted on
+			<time class="published" datetime="2012-12-29" pubdate>December 29th, 2012</time>
+			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+		</p>
+	</div>
+</li>
+
 </ul>
