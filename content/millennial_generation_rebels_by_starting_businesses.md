@@ -1,8 +1,8 @@
 ---
 pubdate: 2013-01-06
-page_title: The Millennial Generation Rebels by Starting Businesses
+page_title: How Millenials Protest
 page_description: "We Millennials have have been presented with two choices in today’s workforce: Become a cog in business we don't believe in or fight back by starting our own."
-article_title: The Millennial Generation Rebels by Starting Businesses
+article_title: How Millenials Protest
 author_url: https://twitter.com/Pappyo
 author_name: Mike O'Hara (Co-Founder of Corkboard.mobi)
 template: blog_post.html
