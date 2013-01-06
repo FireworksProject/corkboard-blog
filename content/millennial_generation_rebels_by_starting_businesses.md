@@ -1,20 +1,19 @@
 ---
 pubdate: 2013-01-06
 page_title: The Millennial Generation Rebels by Starting Businesses
-page_description: We Millennials have have been presented with two choices in today’s workforce: Become a cog in business we don't believe in or fight back by starting our own.
+page_description: "We Millennials have have been presented with two choices in today’s workforce: Become a cog in business we don't believe in or fight back by starting our own."
 article_title: The Millennial Generation Rebels by Starting Businesses
 author_url: https://twitter.com/Pappyo
 author_name: Mike O'Hara (Co-Founder of Corkboard.mobi)
 template: blog_post.html
 ---
 
-<img src="/images/content/crowd.png" width="100%" />
-<figure>
+<figure class="figure">
 <img src="/images/content/hipster_on_moped.jpg" width="100%"
     alt="Hipster on a moped." />
-<figcaption>
-<span class="credit">Original photo by
-<a href="http://www.flickr.com/photos/ockam/">oinonio</a>
+<figcaption class="caption">
+<em class="credit">Original photo by
+<a href="http://www.flickr.com/photos/ockam/">oinonio</a></em>
 </figcaption>
 </figure>
 
