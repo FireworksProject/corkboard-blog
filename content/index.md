@@ -8,12 +8,12 @@ template: blog_index.html
 
 <li class="media-item">
 	<p class="image-box">
-		<a href="./how_millenials_protest">
+		<a href="./how_millennials_protest">
 			<img src="/images/content/hipster_on_moped.jpg" alt="article image" width="100%" />
 		</a>
 	</p>
 	<div class="text-box">
-		<a href="./how_millenials_protest">
+		<a href="./how_millennials_protest">
 		<h3 class="article-title">How Millenials Protest</h3>
 		<p class="article-summary">We Millennials have found ourselves in a strange point of history.  We have been presented with two choices in today’s workforce: Become a cog (if we’re so lucky) or fight.  More and more of us choose to fight.</p>
 		</a>
