@@ -8,18 +8,18 @@ template: blog_index.html
 
 <li class="media-item">
 	<p class="image-box">
-		<a href="./mobile_devices_local_marketplaces_and_small_business">
-			<img src="/images/content/corkboard_flyer.jpg" alt="article image" width="100%" />
+		<a href="./millennial_generation_rebels_by_starting_businesses">
+			<img src="/images/content/hipster_on_moped.jpg" alt="article image" width="100%" />
 		</a>
 	</p>
 	<div class="text-box">
-		<a href="./mobile_devices_local_marketplaces_and_small_business">
-		<h3 class="article-title">Mobile Technology is Bringing a Small Business Renaissance to Local Communities</h3>
-		<p class="article-summary">Smartphones and mobile devices are changing the way we interact within our community and local small businesses stand to gain.</p>
+		<a href="./millennial_generation_rebels_by_starting_businesses">
+		<h3 class="article-title">The Millennial Generation Rebels by Starting Businesses</h3>
+		<p class="article-summary">We Millennials have found ourselves in a strange point of history.  We have been presented with two choices in today’s workforce: Become a cog (if we’re so lucky) or fight.  More and more of us choose to fight.</p>
 		</a>
 		<p class="article-meta">
 			Posted on
-			<time class="published" datetime="2012-12-19" pubdate>December 19th, 2012</time>
+			<time class="published" datetime="2012-12-19" pubdate>January 6th, 2013</time>
 			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
 		</p>
 	</div>
@@ -39,6 +39,25 @@ template: blog_index.html
 		<p class="article-meta">
 			Posted on
 			<time class="published" datetime="2012-12-29" pubdate>December 29th, 2012</time>
+			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+		</p>
+	</div>
+</li>
+
+<li class="media-item">
+	<p class="image-box">
+		<a href="./mobile_devices_local_marketplaces_and_small_business">
+			<img src="/images/content/corkboard_flyer.jpg" alt="article image" width="100%" />
+		</a>
+	</p>
+	<div class="text-box">
+		<a href="./mobile_devices_local_marketplaces_and_small_business">
+		<h3 class="article-title">Mobile Technology is Bringing a Small Business Renaissance to Local Communities</h3>
+		<p class="article-summary">Smartphones and mobile devices are changing the way we interact within our community and local small businesses stand to gain.</p>
+		</a>
+		<p class="article-meta">
+			Posted on
+			<time class="published" datetime="2012-12-19" pubdate>December 19th, 2012</time>
 			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
 		</p>
 	</div>
