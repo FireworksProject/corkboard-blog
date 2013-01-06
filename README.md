@@ -1,7 +1,7 @@
 Content for the Corkboard Blog
 ==============================
 
-All content is copyright: (c) 2012 by The Fireworks Project (http://www.fireworksproject.com)
+All content is copyright: (c) 2012 - 2013 by The Fireworks Project (http://www.fireworksproject.com)
 
 Unless otherwise indicated, all content is licensed under a Creative Commons
 Attribution-ShareAlike 3.0 Unported license. See
