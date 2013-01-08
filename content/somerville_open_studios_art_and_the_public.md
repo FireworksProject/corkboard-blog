@@ -106,7 +106,7 @@ Keep up to date with SOS with [Facebook][Facebook] and [Twitter][Twitter].
 For more information about the artists participating and any other questions you might have, go to [Somerville Open Studios][sos] website.
 
 [r]: http://www.rachelmello.com
-[sos]: http://www.somervilleopenstudios.com
+[sos]: http://www.somervilleopenstudios.org
 [mfa]: http://www.mfa.org/
 [sign]: http://www.somervilleopenstudios.org/join/
 [Facebook]: http://www.facebook.com/SomervilleOpenStudios

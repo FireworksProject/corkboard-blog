@@ -8,6 +8,25 @@ template: blog_index.html
 
 <li class="media-item">
 	<p class="image-box">
+		<a href="./somerville_open_studios_art_and_the_public">
+			<img src="/images/content/somerville_open_studios.png" alt="article image" width="100%" />
+		</a>
+	</p>
+	<div class="text-box">
+		<a href="./somerville_open_studios_art_and_the_public">
+		<h3 class="article-title">Somerville Open Studios: Art and the Public</h3>
+		<p class="article-summary">There is something profoundly important to having an unmediated experience with art. Nobody has decided in advance whether the art you’re seeing is good or bad.</p>
+		</a>
+		<p class="article-meta">
+			Posted on
+			<time class="published" datetime="2012-12-19" pubdate>January 8th, 2013</time>
+			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+		</p>
+	</div>
+</li>
+
+<li class="media-item">
+	<p class="image-box">
 		<a href="./how_millennials_protest">
 			<img src="/images/content/hipster_on_moped.jpg" alt="article image" width="100%" />
 		</a>
