@@ -15,7 +15,11 @@ template: blog_index.html
 	<div class="text-box">
 		<a href="./when_your_product_is_late_to_the_party">
 		<h3 class="article-title">Late to the Party</h3>
-		<p class="article-summary">Just because your product is late to the party doen't mean it's not needed. Do some research to show that the problem is not solved, and there are enough people who need it solved.</p>
+		<p class="article-summary">
+		Just because your product is late to the party doesn't mean you should
+		throw it out with the bath water. Often there is a cohort of people who still
+		have an unsolved problem, and a little research will uncover it.
+		</p>
 		</a>
 		<p class="article-meta">
 			Posted on

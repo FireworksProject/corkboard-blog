@@ -1,14 +1,14 @@
 ---
 pubdate: 2013-01-13
 page_title: When Your Product is Late to the Party
-page_description: "Just because your product is late to the party doen't mean it's not needed. Do some research to show that the problem is not solved, and there are enough people who need it solved."
+page_description: "Just because your product is late to the party doesn't mean you should throw it out with the bath water. Often there is a cohort of people who still have an unsolved problem, and a little research will uncover it."
 article_title: Late to the Party
 author_url: https://twitter.com/Pappyo
 author_name: Mike O'Hara (Co-Founder of Corkboard.mobi)
 template: blog_post.html
 ---
 
-**A Hard Lesson in Pitching and Market Research**
+## A Hard Lesson in Pitching and Market Research
 
 <figure class="figure">
 <img src="/images/content/open_champaign.jpg" width="100%"
@@ -19,16 +19,17 @@ template: blog_post.html
 
 When you pitch, you learn things.
 
-Fellow co-founder [Kris](http://www.twitter.com/kixxauth) and I went through
-some growing pains when we first came up with the idea for a [community board
-for your phone](http://www.corkboard.mobi). Pitching the idea was one of those
-areas that hurt a lot.
+Fellow co-founder
+[Kris](http://www.twitter.com/kixxauth)
+and I went through some growing pains when we first came up with the idea for a
+[community board for your phone](http://www.corkboard.mobi).
+Pitching the idea was one of those areas that hurt a lot.
 
 I watched Kris have this exchange with a Venture Capitalist:
 
->Kris: We’re working on a web app that works as a local community board.
+> Kris: We’re working on a web app that works as a local community board.
 
->VC: Local huh? Man, everyone is doing local. It’s a crowded space. You’re probably a little late to the party. Good luck.
+> VC: Local huh? Man, everyone is doing local. It’s a crowded space. You’re probably a little late to the party. Good luck.
 
 Good luck.
 
@@ -95,7 +96,7 @@ questions we had and was as unbiased as possible, we sent it into the wild.
 - All other major technology (Twitter, Yelp, Patch, Yahoo!) are used, but not in a significant way. ( 2 out of 10 surveyed )
 
 
-### The Lessons
+## The Lessons
 
 First, thanks to the VC, we realized we can’t hunker down and build a better
 mousetrap.  Like he said, we’re late to the party. Too much money has been
