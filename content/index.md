@@ -8,6 +8,27 @@ template: blog_index.html
 
 <li class="media-item">
 	<p class="image-box">
+		<a href="./when_your_product_is_late_to_the_party">
+			<img src="/images/content/open_champaign.jpg" alt="article image" width="100%" />
+		</a>
+	</p>
+	<div class="text-box">
+		<a href="./when_your_product_is_late_to_the_party">
+		<h3 class="article-title">Late to the Party</h3>
+		<p class="article-summary">Just because your product is late to the party doen't mean it's not needed. Do some research to show that the problem is not solved, and there are enough people who need it solved.</p>
+		</a>
+		<p class="article-meta">
+			Posted on
+			<time class="published" datetime="2013-01-13" pubdate>January 13th, 2013</time>
+			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+		</p>
+	</div>
+</li>
+
+<ul class="blog-index">
+
+<li class="media-item">
+	<p class="image-box">
 		<a href="./somerville_open_studios_art_and_the_public">
 			<img src="/images/content/somerville_open_studios.png" alt="article image" width="100%" />
 		</a>
@@ -19,7 +40,7 @@ template: blog_index.html
 		</a>
 		<p class="article-meta">
 			Posted on
-			<time class="published" datetime="2012-12-19" pubdate>January 8th, 2013</time>
+			<time class="published" datetime="2013-01-08" pubdate>January 8th, 2013</time>
 			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
 		</p>
 	</div>
@@ -38,7 +59,7 @@ template: blog_index.html
 		</a>
 		<p class="article-meta">
 			Posted on
-			<time class="published" datetime="2012-12-19" pubdate>January 6th, 2013</time>
+			<time class="published" datetime="2013-01-06" pubdate>January 6th, 2013</time>
 			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
 		</p>
 	</div>
