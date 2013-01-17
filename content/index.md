@@ -8,6 +8,29 @@ template: blog_index.html
 
 <li class="media-item">
 	<p class="image-box">
+		<a href="./google-search-trends-to-research-for-business">
+			<img src="/images/content/google-trends-1.png" alt="article image" width="100%" />
+		</a>
+	</p>
+	<div class="text-box">
+		<a href="./google-search-trends-to-research-for-business">
+		<h3 class="article-title">Using Google Search Trends to Research Your Business</h3>
+		<p class="article-summary">
+		Google search data can be a great tool for exploring the market potential
+		for your business venture, large or small.  It's a first step to understanding
+		your audience and how to market your business in a connected world.
+		</p>
+		</a>
+		<p class="article-meta">
+			Posted on
+			<time class="published" datetime="2013-01-17" pubdate>January 17th, 2013</time>
+			<br />by Kris Walker
+		</p>
+	</div>
+</li>
+
+<li class="media-item">
+	<p class="image-box">
 		<a href="./when_your_product_is_late_to_the_party">
 			<img src="/images/content/open_champaign.jpg" alt="article image" width="100%" />
 		</a>
@@ -24,7 +47,7 @@ template: blog_index.html
 		<p class="article-meta">
 			Posted on
 			<time class="published" datetime="2013-01-13" pubdate>January 13th, 2013</time>
-			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+			<br />by Mike O'Hara
 		</p>
 	</div>
 </li>
@@ -45,7 +68,7 @@ template: blog_index.html
 		<p class="article-meta">
 			Posted on
 			<time class="published" datetime="2013-01-08" pubdate>January 8th, 2013</time>
-			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+			<br />by Mike O'Hara
 		</p>
 	</div>
 </li>
@@ -64,7 +87,7 @@ template: blog_index.html
 		<p class="article-meta">
 			Posted on
 			<time class="published" datetime="2013-01-06" pubdate>January 6th, 2013</time>
-			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+			<br />by Mike O'Hara
 		</p>
 	</div>
 </li>
@@ -83,7 +106,7 @@ template: blog_index.html
 		<p class="article-meta">
 			Posted on
 			<time class="published" datetime="2012-12-29" pubdate>December 29th, 2012</time>
-			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+			<br />by Mike O'Hara
 		</p>
 	</div>
 </li>
@@ -102,7 +125,7 @@ template: blog_index.html
 		<p class="article-meta">
 			Posted on
 			<time class="published" datetime="2012-12-19" pubdate>December 19th, 2012</time>
-			<br />by Mike O'Hara (Co-Founder of Corkboard.mobi)
+			<br />by Mike O'Hara
 		</p>
 	</div>
 </li>

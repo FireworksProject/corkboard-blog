@@ -1,7 +1,7 @@
 ---
 pubdate: 2013-01-17
 page_title: Using Google Search Trends to Research Your Business
-page_description: "Google search data can be a great tool for exploring the market potential for your business venture, large or small.  It's a first step to understanding how to market your business in a connected world.  I really encourage you to play around with it."
+page_description: "Google search data can be a great tool for exploring the market potential for your business venture, large or small.  It's a first step to understanding how to market your business in a connected world."
 article_title: Using Google Search Trends to Research Your Business
 author_url: https://plus.google.com/u/0/100601805957701195662/about
 author_name: Kris Walker
@@ -48,9 +48,9 @@ the
 yourself at the Google Trends tool.
 
 Notice that the generic term "make a website" (blue) peaked in the Summer of
-2009 but has been in steady decline ever since.  On the other hands, the more
-specific web technologies. Google Sites and Wordpress, have been steadily
-rising since 2007. Also, notice the little tick up for Jan 2013 at the end of
+2009 but has been declining ever since.  On the other hands, the more
+specific web technologies, Google Sites and Wordpress, have been steadily
+rising since 2007. Also, notice the little tick up in Jan 2013 at the end of
 each of the lines.
 
 I was curious about that uptick at the end, so I narrowed the results to Nov 2011 through Jan 2013.
@@ -66,12 +66,12 @@ I was curious about that uptick at the end, so I narrowed the results to Nov 201
 Like before, you can play with the
 [original source](http://www.google.com/trends/explore#q=make%20website%2C%20google%20website%2C%20wordpress%20website&geo=US&date=11%2F2011%2015m&cmpt=q)
 yourself.
-You'll notice that there is a sharp uptick in activity for these search tearms
+You'll notice that there is a sharp uptick in activity for these search terms
 every January, but the most recent one for 2013 seams to be more pronounced.
 
 Then I began to wonder if the frequency of people searching Google for ways to
 create a new website might be a leading indicator of economic activity.  So, I
-added in the generic search tearm "start a business".
+added in the generic search term "start a business".
 
 <figure class="figure">
 <img src="/images/content/google-trends-3.png" width="100%"
@@ -81,7 +81,7 @@ added in the generic search tearm "start a business".
 </figcaption>
 </figure>
 
-Well gol dang. The term "start a business" (red) matches in frequency
+Well gawl dang. The term "start a business" (red) matches in frequency
 surprisingly closely to "google website" (blue). I guess we probably shouldn't
 be surprised by that.
 
@@ -97,11 +97,11 @@ were the converse.  I came up with "find a job" as a possible example.
 </figure>
 
 Notice again that there is a spike in activity every January.  Also notice that
-searches for "find a job" have been in a downtrend since the peak in January of
-2009.  It would take a lot more research to show this, but I'd like to think
-that more people are finding a job they like, or even starting a new business.
-Of course it could also be true that some people who had been looking for a job
-have given up, but let's look at the glass half full.
+searches for "find a job" have been in a downward trend since the peak in
+January of 2009.  It would take a lot more research to show this, but I'd like
+to think that more people are finding a job they like, or even starting a new
+business.  Of course it could also be true that some people who had been
+looking for a job have given up, but let's look at the glass half full.
 
 ## What Have We Learned
 Well, first I hope you've seen that Google search data can be a great tool for
@@ -113,7 +113,7 @@ Secondly, while it's too early to say for sure, it looks like entrepreneurship
 may be on the rise.  Starting a business may become a viable alternative to
 searching for a job for more and more of us.  At Corkboard, we're even
 observing that our
-[millenial generation prefers entrepreneurship](http://www.corkboard.mobi/blog/how_millennials_protest)
+[Millennial generation prefers entrepreneurship](http://www.corkboard.mobi/blog/how_millennials_protest)
 over getting a job and being a cog in the wheel.  I think that's good and
 healthy for our communities.
 
