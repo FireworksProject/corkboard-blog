@@ -121,7 +121,7 @@ Here are some fairly simple things you can do to make sure your business is mobi
 
 1. Make sure to Bookmark this blog, as we will be adding and updating the content as we discover more ways local businesses are taking advantage of mobile devices and the web to build vibrant local communities.*
 
-2. Make sure your business is on [Google Maps](www.google.com/placesforbusiness). It’s free and easy.
+2. Make sure your business is on [Google Maps](http://www.google.com/placesforbusiness). It’s free and easy.
 
 3. Don’t worry about an [app](http://www.businessnewsdaily.com/1460-mobile-browsers-more-popular-than-apps.html) for your business. To take advantage of mobile right now, make sure your website is [mobile ready](http://www.thinkwithgoogle.com/insights/uploads/248352.pdf) (pdf).
 
