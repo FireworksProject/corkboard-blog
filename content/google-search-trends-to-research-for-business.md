@@ -3,7 +3,7 @@ pubdate: 2013-01-17
 page_title: Using Google Search Trends to Research Your Business
 page_description: "Google search data can be a great tool for exploring the market potential for your business venture, large or small.  It's a first step to understanding how to market your business in a connected world."
 article_title: Using Google Search Trends to Research Your Business
-author_url: https://plus.google.com/u/0/100601805957701195662/about
+author_url: https://plus.google.com/100601805957701195662?rel=author
 author_name: Kris Walker
 template: blog_post.html
 ---
