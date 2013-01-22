@@ -8,6 +8,28 @@ template: blog_index.html
 
 <li class="media-item">
 	<p class="image-box">
+		<a href="./8_easy_steps_to_get_more_twitter_followers">
+			<img src="http://www.avc.com/.a/6a00d83451b2c969e2015391f27bab970b-pi" alt="article image" width="100%" />
+		</a>
+	</p>
+	<div class="text-box">
+		<a href="./8_easy_steps_to_get_more_twitter_followers">
+		<h3 class="article-title">8 Easy Steps to Get More Twitter Followers</h3>
+		<p class="article-summary">
+		I'm going to show you how to get more Twitter followers by effectively
+		communicating a clear message on Twitter...and everything that entails.
+		</p>
+		</a>
+		<p class="article-meta">
+			Posted on
+			<time class="published" datetime="2013-01-22" pubdate>January 22nd, 2013</time>
+			<br />by Mike O'Hara
+		</p>
+	</div>
+</li>
+
+<li class="media-item">
+	<p class="image-box">
 		<a href="./google-search-trends-to-research-for-business">
 			<img src="/images/content/google-trends-1.png" alt="article image" width="100%" />
 		</a>
