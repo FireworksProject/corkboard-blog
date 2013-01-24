@@ -157,7 +157,7 @@ too much. So what is too much?
 
 It's hard to say. I've seen recomendations for as few as 5 - 6 tweets a day and
 as many as 25 - 30. I don't think there's a magic number. If you can produce 30
-quality tweets a day, than do it. If you can only produce 4 than thats fine.
+quality tweets a day, than do it. If you can only produce 4 than that's fine.
 Nobody will unfollow you if you're not tweeting. People will unfollow you if
 your tweets are boring, irrelevant or annoying. So don't tweet for the sake of
 tweeting. Tweet only when you have something great to share. 
