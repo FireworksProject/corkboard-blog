@@ -83,7 +83,7 @@ Lastly, make updates to your website ***as soon as you have them.*** An active s
 
 Social media is the easiest, cheapest and fastest way to create a dialogue with potential event go’ers. (Unless you’ve been living under a rock, you probably already know that). Here are the big ones to use:
 
-**Facebook:** If you’re not on Facebook.....oh boy.....it’s time to join the rest of us. Get on Facebook. Most of you know how to use FB already, so I won't get into it. But in case you were wondering, gere are some [good tips][tips] for promoting your event on FB.
+**Facebook:** If you’re not on Facebook.....oh boy.....it’s time to join the rest of us. Get on Facebook. Most of you know how to use FB already, so I won't get into it. But in case you were wondering, there are some [good tips][tips] for promoting your event on FB.
 
 **Twitter:** Ok, so there’s a good chance you don’t know how to use Twitter. Instead of explaining how to use it for your event, here are some resources that can explain it better than I:
 
