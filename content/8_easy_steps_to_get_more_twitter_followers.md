@@ -67,7 +67,7 @@ People follow authorities. [Ashton Kutcher][ak] has millions of followers
 because he's an authority on his celebrity. [Bill Gates][bg] has millions of
 followers because he's an authority on software and his own ventures. 
 
-If you don't have many followers, you're not an athority on anything. You need
+If you don't have many followers, you're not an authority on anything. You need
 to become one.
 
 The fastest way to become an authority on something is to become an authority
@@ -76,10 +76,10 @@ Here's how:
 
 - [Reddit] is great for finding content. But [subreddits] will help you distill the content you want.
 - [Quora] will get answers to questions your audience has.
-- [Monitter] makes it easy to find and organize Twiiter hashtags for content your audience wants.  
+- [Monitter] makes it easy to find and organize Twitter hashtags for content your audience wants.  
 - [WeFollow] is a decent way to find authorities to follow who produce content for your audience.  
 
-There are upteen different way to do this, but the above is a start. For
+There are umpteen different way to do this, but the above is a start. For
 example you could find blogs that your audience will love and any other content
 the Googles can pull up for you. If you happen to be an actual authority on
 what you're tweeting about, create a blog and tweet your own material. Just
@@ -155,7 +155,7 @@ So hit the retweet button or use the RT in your tweet to give your two cents:
 From my own personal experience, people will unfollow you if you start tweeting
 too much. So what is too much? 
 
-It's hard to say. I've seen recomendations for as few as 5 - 6 tweets a day and
+It's hard to say. I've seen recommendations for as few as 5 - 6 tweets a day and
 as many as 25 - 30. I don't think there's a magic number. If you can produce 30
 quality tweets a day, than do it. If you can only produce 4 than thats fine.
 Nobody will unfollow you if you're not tweeting. People will unfollow you if
