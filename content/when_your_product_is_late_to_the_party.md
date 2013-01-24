@@ -15,7 +15,7 @@ template: blog_post.html
     alt="Empty bottles of Champaign." />
 </figure>
 
-## The Beatdown
+## The Beat Down
 
 When you pitch, you learn things.
 
@@ -120,7 +120,7 @@ build a better product.
 
 There is no algorithm we can write, no design we can create, no UX we can slave
 over, that will replace the real interactions we’re having with people in these
-local communities. Thanks to the verbal beatdown by the VC, and the subsequent
+local communities. Thanks to the verbal beat down by the VC, and the subsequent
 Market Research it spawned, we have a new vision for local. 
 
 Some might think we’re late to the party. I don’t think the party’s started
